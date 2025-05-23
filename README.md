@@ -11,7 +11,7 @@ The dataset consists of various Amazon products with attributes such as:
 
 3.Discount %
 
-4.Ratings
+Ratings
 
 Review text
 
@@ -20,22 +20,22 @@ Category
 The data has been cleaned and preprocessed for analysis using Python libraries like pandas, matplotlib, and seaborn.
 
 🔍 Key Questions Explored
-How does the discount percentage affect product ratings?
+1. How does the discount percentage affect product ratings?
 → There is no significant correlation found between discounts and customer ratings.
 
-Which category has the highest average rating?
+2. Which category has the highest average rating?
 → The "OfficeProducts" category has the highest average rating.
 
-Is there a correlation between product price and rating?
+3. Is there a correlation between product price and rating?
 → No clear correlation is observed, indicating that price doesn't heavily influence customer satisfaction.
 
 Most common words in positive and negative reviews?
 → The dataset is dominated by positive reviews (~98%), and frequent words reflect general satisfaction.
 
-What is the overall rating distribution?
+4. What is the overall rating distribution?
 → Most products are rated between 4.0 and 4.5, reflecting a largely positive customer experience.
 
-Which product received the most reviews and what is its rating?
+5. Which product received the most reviews and what is its rating?
 → Identified top-reviewed products and analyzed their respective ratings.
 
 📊 Tools & Libraries Used
