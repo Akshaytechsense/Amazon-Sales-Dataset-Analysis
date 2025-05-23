@@ -11,9 +11,9 @@ The dataset consists of various Amazon products with attributes such as:
 
 3.Discount %
 
-Ratings
+4.Ratings
 
-Review text
+5.Review text
 
 Category
 
